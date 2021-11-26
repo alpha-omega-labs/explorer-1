@@ -1,8 +1,0 @@
-{
-    "chain_name": "Genesis L1 testnet",
-    "coingecko": "genesisL1",
-    "api": "https://testapi.genesisl1.org",
-    "sdk_version": "0.42.4",
-    "addr_prefix": "genesis",
-    "logo": "https://raw.githubusercontent.com/alpha-omega-labs/bashscripts/main/genesisl1.png"
-}
